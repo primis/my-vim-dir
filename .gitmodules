@@ -1,0 +1,18 @@
+[submodule "pack/themes/opt/solarized8"]
+	path = pack/themes/opt/solarized8
+	url = git@github.com:lifepillar/vim-solarized8.git
+[submodule "pack/dist/start/airline"]
+	path = pack/dist/start/airline
+	url = git@github.com:vim-airline/vim-airline.git
+[submodule "pack/dist/start/airline-themes"]
+	path = pack/dist/start/airline-themes
+	url = git@github.com:vim-airline/vim-airline-themes.git
+[submodule "pack/dist/start/battery"]
+	path = pack/dist/start/battery
+	url = git@github.com:lambdalisue/battery.vim.git
+[submodule "pack/dist/start/vimagit"]
+	path = pack/dist/start/vimagit
+	url = git@github.com:jreybert/vimagit.git
+[submodule "pack/dist/start/fugitive"]
+	path = pack/dist/start/fugitive
+	url = git@github.com:tpope/vim-fugitive.git
