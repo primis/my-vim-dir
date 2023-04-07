@@ -1,5 +1,5 @@
 syntax enable
-set tabstop=2   " taps are 4 spaces wide
+set tabstop=4   " taps are 4 spaces wide
 set softtabstop=2
 set shiftwidth=2
 set expandtab   " using <TAB> turns them into spaces
@@ -22,6 +22,9 @@ nnoremap B ^
 nnoremap E $
 nnoremap $ <nop>
 nnoremap ^ <nop>
+
+" Let us use the mouse!
+set mouse=a
 
 augroup configgroup
   autocmd!

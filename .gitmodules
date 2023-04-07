@@ -5,7 +5,7 @@
 	path = pack/dist/start/airline
 	url = git@github.com:vim-airline/vim-airline.git
 [submodule "pack/dist/start/airline-themes"]
-	path = pack/dist/start/airline-themes
+	path = pack/themes/start/airline-themes
 	url = git@github.com:vim-airline/vim-airline-themes.git
 [submodule "pack/dist/start/battery"]
 	path = pack/dist/start/battery
@@ -16,3 +16,6 @@
 [submodule "pack/dist/start/fugitive"]
 	path = pack/dist/start/fugitive
 	url = git@github.com:tpope/vim-fugitive.git
+[submodule "pack/formatting/start/sleuth"]
+	path = pack/formatting/start/sleuth
+	url = https://tpope.io/vim/sleuth.git
