@@ -13,6 +13,7 @@ set incsearch
 set hlsearch
 set smartindent
 set autoindent
+set noswapfile
 nnoremap <leader><space> :nohlsearch<CR>
 
 " key remaps
